@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EFFDIRFl41XaRSkhXJtGc7CKfxORPTo3U0dau7lUUo/fir//uFuQhA3y9XCg90ZIREbLYU5n8m5aKPTebrQ9kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marinna\\Desktop\\project-2\\project 2\\project 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marinna\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

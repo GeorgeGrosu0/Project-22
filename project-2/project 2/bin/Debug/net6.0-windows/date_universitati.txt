@@ -1,0 +1,11 @@
+American University of Middle East	Kuwait	KW	http://www.aum.edu.kw/
+Middlesex University	United Kingdom	GB	http://www.mdx.ac.uk/
+Middlesex County College	United States	US	http://www.middlesexcc.edu
+Middlesex Community College	United States	US	http://www.middlesex.mass.edu
+Middlesbrough College	United Kingdom	GB	https://www.mbro.ac.uk/
+American University of Middle East	Kuwait	KW	http://www.aum.edu.kw/
+Middle East University	Jordan	JO	http://www.meu.edu.jo/
+Middle East Technical University	Turkey	TR	http://www.metu.edu.tr/
+Middle Tennessee State University	United States	US	http://www.mtsu.edu/
+Middle Georgia State College	United States	US	http://www.mga.edu/
+Middlebury College	United States	US	http://www.middlebury.edu/

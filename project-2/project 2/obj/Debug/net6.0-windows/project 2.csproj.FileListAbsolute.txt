@@ -1,0 +1,30 @@
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\project 2.csproj.AssemblyReference.cache
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\project_2.Form1.resources
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\project_2.Form2.resources
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\project_2.Form3.resources
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\project_2.Form5.resources
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\project_2.Form6.resources
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\project_2.Form7.resources
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\project_2.Form8.resources
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\project_2.Properties.Resources.resources
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\project 2.csproj.GenerateResource.cache
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\project 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\project 2.AssemblyInfoInputs.cache
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\project 2.AssemblyInfo.cs
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\project 2.csproj.CoreCompileInputs.cache
+C:\Users\bogda\Source\Repos\project-2\project 2\bin\Debug\net6.0-windows\project 2.exe
+C:\Users\bogda\Source\Repos\project-2\project 2\bin\Debug\net6.0-windows\project 2.deps.json
+C:\Users\bogda\Source\Repos\project-2\project 2\bin\Debug\net6.0-windows\project 2.runtimeconfig.json
+C:\Users\bogda\Source\Repos\project-2\project 2\bin\Debug\net6.0-windows\project 2.dll
+C:\Users\bogda\Source\Repos\project-2\project 2\bin\Debug\net6.0-windows\project 2.pdb
+C:\Users\bogda\Source\Repos\project-2\project 2\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\project 2.csproj.CopyComplete
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\project 2.dll
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\refint\project 2.dll
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\project 2.pdb
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\project 2.genruntimeconfig.cache
+C:\Users\bogda\Source\Repos\project-2\project 2\obj\Debug\net6.0-windows\ref\project 2.dll
+C:\Users\Marinna\Desktop\project-2\project 2\obj\Debug\net6.0-windows\project 2.csproj.AssemblyReference.cache
+C:\Users\Marinna\Desktop\project-2\project 2\obj\Debug\net6.0-windows\project 2.dll
+C:\Users\Marinna\Desktop\project-2\project 2\obj\Debug\net6.0-windows\refint\project 2.dll
+C:\Users\Marinna\Desktop\project-2\project 2\obj\Debug\net6.0-windows\project 2.pdb
